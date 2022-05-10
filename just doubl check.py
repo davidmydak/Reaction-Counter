@@ -74,11 +74,6 @@ button = tk.Button(
     command = reaction_counter
 )
 
-# frame = tk.Label(
-#     text = "",
-#     width = 600,
-#     bg = "#34A2FE"
-# )
 
 for c in window.children:
     print(c)
